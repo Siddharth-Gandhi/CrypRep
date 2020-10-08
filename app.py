@@ -25,7 +25,7 @@ def get_hex(text):
 
 
 def get_hex_array(string):
-    return [int(string[i : i + 2], 16) for i in range(0, len(string), 2)]
+    return [int(string[i: i + 2], 16) for i in range(0, len(string), 2)]
 
 
 def fixed_len_hex(string):
