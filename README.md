@@ -1,5 +1,4 @@
 # CrypRep
-WHO LET THE DOGS OUT?
 
 Repository containing the source code for the cyber security algorithms showcased on our website.
 
